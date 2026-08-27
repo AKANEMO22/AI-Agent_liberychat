@@ -1,0 +1,11 @@
+{
+  "userPrompt": "fix file này, sửa phép cộng thành a + b rồi chạy test",
+  "numCtx": 8192,
+  "tools": [
+    "read_file",
+    "edit_file",
+    "run_test",
+    "search_text",
+    "git_diff"
+  ]
+}

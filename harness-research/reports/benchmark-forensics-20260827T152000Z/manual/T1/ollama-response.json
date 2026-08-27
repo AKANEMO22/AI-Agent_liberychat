@@ -1,0 +1,32 @@
+{
+  "id": "chatcmpl-393",
+  "object": "chat.completion",
+  "created": 1787818921,
+  "model": "qwen2.5-coder-local",
+  "system_fingerprint": "fp_ollama",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": null,
+        "tool_calls": [
+          {
+            "id": "call_1787818921613_1oo8f",
+            "type": "function",
+            "function": {
+              "name": "read_file",
+              "arguments": "{\"file_path\":\"calculator.py\"}"
+            }
+          }
+        ]
+      },
+      "finish_reason": "tool_calls"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 591,
+    "completion_tokens": 19,
+    "total_tokens": 610
+  }
+}

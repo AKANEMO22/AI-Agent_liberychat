@@ -1,0 +1,11 @@
+{
+  "userPrompt": "Đọc file overwrite-test.txt và sửa nội dung thành OVERWRITE_TEST_VERSION_2.",
+  "numCtx": 8192,
+  "tools": [
+    "read_file",
+    "edit_file",
+    "run_test",
+    "search_text",
+    "git_diff"
+  ]
+}

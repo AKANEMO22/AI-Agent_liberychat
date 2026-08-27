@@ -1,0 +1,11 @@
+{
+  "userPrompt": "Chạy test discount_engine để xem lỗi, sửa file discount_engine.py cho đến khi test pass.",
+  "numCtx": 8192,
+  "tools": [
+    "read_file",
+    "edit_file",
+    "run_test",
+    "search_text",
+    "git_diff"
+  ]
+}

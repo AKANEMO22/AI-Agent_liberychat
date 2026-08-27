@@ -1,0 +1,26 @@
+{
+  "mongodb": {
+    "pid": 71168,
+    "name": "node",
+    "startTime": "2026-08-26T16:59:46.495Z",
+    "owned": true
+  },
+  "ollama": {
+    "pid": 53736,
+    "name": "ollama",
+    "startTime": "2026-08-26T16:24:06.529Z",
+    "owned": true
+  },
+  "adapter": {
+    "pid": 49292,
+    "name": "node",
+    "startTime": "2026-08-26T16:59:48.747Z",
+    "owned": true
+  },
+  "librechat": {
+    "pid": 15060,
+    "name": "node",
+    "startTime": "2026-08-26T16:59:50.887Z",
+    "owned": true
+  }
+}

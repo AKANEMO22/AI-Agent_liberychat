@@ -1,0 +1,4 @@
+tool_output_format,task,tokens_est,success,latency_ms
+raw,"M10_RETRY_RECOVERY",3000,true,38533
+bounded,"M10_RETRY_RECOVERY",600,true,18420
+structured,"M10_RETRY_RECOVERY",120,true,12150

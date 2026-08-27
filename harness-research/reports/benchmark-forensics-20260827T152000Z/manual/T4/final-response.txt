@@ -1,0 +1,4 @@
+{"name": "read_file", "arguments": {"file_path": "overwrite-test.txt"}}
+{"name": "edit_file", "arguments": {"file_path": "overwrite-test.txt", "target_content": "OVERWRITE_TEST_VERSION_1", "replacement_content": "OVERWRITE_TEST_VERSION_2"}}
+{"name": "git_diff", "arguments": {}}
+{"name": "run_test", "arguments": {}}

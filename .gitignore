@@ -1,0 +1,16 @@
+# Local secrets and runtime state
+.env
+.env.*
+!.env.example
+*.log
+*.pid
+
+# Installed dependencies and Python cache
+node_modules/
+__pycache__/
+
+# Local databases and generated logs
+*.sqlite
+*.sqlite3
+audit-logs/
+logs/

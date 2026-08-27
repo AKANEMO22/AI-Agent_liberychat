@@ -1,0 +1,16 @@
+task_id,initial_test_passed,retry_count,final_test_passed,recovered
+"M1_EXACT_FILE",false,0,false,false
+"M2_DISCOVER_FILE",false,1,true,true
+"M3_NESTED_FILE",false,0,false,false
+"M4_OVERWRITE_PROOF",true,0,true,true
+"M5_SMALL_PATCH",true,0,true,true
+"M6_PRESERVE_SENTINELS",false,2,true,true
+"M7_LINE_ENDINGS",true,0,true,true
+"M8_DISTRACTOR_FILES",false,0,false,false
+"M9_DISAMBIGUATION",false,0,false,false
+"M10_RETRY_RECOVERY",false,3,true,true
+"M11_CONSTRAINT_RETENTION",false,4,false,true
+"M12_FOCUSED_FILE",false,3,true,true
+"M13_EXPLICIT_OVERRIDES_FOCUS",false,2,true,true
+"M14_STALE_CONTENT_SAFETY",true,0,true,true
+"M15_SECURITY_SANDBOX",false,2,true,true

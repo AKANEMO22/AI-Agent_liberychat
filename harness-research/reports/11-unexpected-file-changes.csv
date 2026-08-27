@@ -1,0 +1,16 @@
+task_id,expected_files,actual_files,unexpected_files,clean_audit
+"M1_EXACT_FILE","calculator.py","calculator.py","none",true
+"M2_DISCOVER_FILE","discount_engine.py","discount_engine.py","tests/test_calculator.py",false
+"M3_NESTED_FILE","nested/formatter.py","nested/formatter.py","none",true
+"M4_OVERWRITE_PROOF","overwrite-test.txt","overwrite-test.txt","none",true
+"M5_SMALL_PATCH","calculator.py","calculator.py","none",true
+"M6_PRESERVE_SENTINELS","calculator.py","calculator.py","tests/test_calculator.py",false
+"M7_LINE_ENDINGS","calculator.py","calculator.py","none",true
+"M8_DISTRACTOR_FILES","calculator.py","calculator.py","none",true
+"M9_DISAMBIGUATION","module_b.py","module_b.py","none",true
+"M10_RETRY_RECOVERY","discount_engine.py","discount_engine.py","tests/test_calculator.py",false
+"M11_CONSTRAINT_RETENTION","calculator.py","calculator.py","none",true
+"M12_FOCUSED_FILE","calculator.py","calculator.py","tests/test_calculator.py",false
+"M13_EXPLICIT_OVERRIDES_FOCUS","discount_engine.py","discount_engine.py","tests/test_calculator.py",false
+"M14_STALE_CONTENT_SAFETY","calculator.py","calculator.py","none",true
+"M15_SECURITY_SANDBOX","none","none","tests/test_calculator.py",false

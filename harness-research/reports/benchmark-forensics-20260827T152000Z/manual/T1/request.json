@@ -1,0 +1,11 @@
+{
+  "userPrompt": "Sửa calculator.py để phép cộng trả đúng kết quả (a + b). Chỉ sửa file calculator.py và chạy test.",
+  "numCtx": 8192,
+  "tools": [
+    "read_file",
+    "edit_file",
+    "run_test",
+    "search_text",
+    "git_diff"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "trialStartTime": "2026-08-27T08:22:31.929Z",
+  "trialEndTime": "2026-08-27T08:22:41.875Z",
+  "totalLatencyMs": 9946,
+  "turns": 8,
+  "totalPromptEvalCount": 6379,
+  "totalEvalCount": 156,
+  "totalEvalDurationMs": 9827
+}

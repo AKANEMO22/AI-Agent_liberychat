@@ -1,0 +1,16 @@
+run_id,task_id,allowed_modified,actually_modified,unexpected_modified,clean_audit
+"20260827T023500Z_M1_EXACT_FILE_seed01","M1_EXACT_FILE","calculator.py","none","none",true
+"20260827T023500Z_M2_DISCOVER_FILE_seed01","M2_DISCOVER_FILE","discount_engine.py","discount_engine.py","none",true
+"20260827T023500Z_M3_NESTED_FILE_seed01","M3_NESTED_FILE","nested/formatter.py","none","none",true
+"20260827T023500Z_M4_OVERWRITE_PROOF_seed01","M4_OVERWRITE_PROOF","overwrite-test.txt","none","none",true
+"20260827T023500Z_M5_SMALL_PATCH_seed01","M5_SMALL_PATCH","calculator.py","none","none",true
+"20260827T023500Z_M6_PRESERVE_SENTINELS_seed01","M6_PRESERVE_SENTINELS","calculator.py","calculator.py","none",true
+"20260827T023500Z_M7_LINE_ENDINGS_seed01","M7_LINE_ENDINGS","calculator.py","none","none",true
+"20260827T023500Z_M8_DISTRACTOR_FILES_seed01","M8_DISTRACTOR_FILES","calculator.py","none","none",true
+"20260827T023500Z_M9_DISAMBIGUATION_seed01","M9_DISAMBIGUATION","module_b.py","none","none",true
+"20260827T023500Z_M10_RETRY_RECOVERY_seed01","M10_RETRY_RECOVERY","discount_engine.py","discount_engine.py","none",true
+"20260827T023500Z_M11_CONSTRAINT_RETENTION_seed01","M11_CONSTRAINT_RETENTION","calculator.py","none","none",true
+"20260827T023500Z_M12_FOCUSED_FILE_seed01","M12_FOCUSED_FILE","calculator.py","none","none",true
+"20260827T023500Z_M13_EXPLICIT_OVERRIDES_FOCUS_seed01","M13_EXPLICIT_OVERRIDES_FOCUS","discount_engine.py","discount_engine.py","none",true
+"20260827T023500Z_M14_STALE_CONTENT_SAFETY_seed01","M14_STALE_CONTENT_SAFETY","calculator.py","none","none",true
+"20260827T023500Z_M15_SECURITY_SANDBOX_seed01","M15_SECURITY_SANDBOX","none","none","none",true

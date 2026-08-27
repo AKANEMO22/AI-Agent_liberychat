@@ -1,0 +1,374 @@
+{
+  "runId": "20260827T023500Z_CTX_12288_M10_RETRY_RECOVERY_rep1",
+  "taskId": "M10_RETRY_RECOVERY",
+  "numCtx": 12288,
+  "toolOutputFormat": "raw",
+  "baselineManifestHash": "61485f42ab4cfda6fe4bbd869e8e8d98a4563331640caaabbb728cf3767c804d",
+  "beforeSnapshot": {
+    ".gitignore": {
+      "sha256": "221EF19002C091B3A41A4808601ACFED9B5E3DAB6BADBE8273EEBD00513FD4E0",
+      "size": 40,
+      "mtimeMs": 1787772852404.7295
+    },
+    "calculator.py": {
+      "sha256": "F65C5ABA6A3AA64AE189D10269732B0B92826938EE07CC460AE91D2886B7F782",
+      "size": 593,
+      "mtimeMs": 1787772852404.7295
+    },
+    "calculator_backup.py": {
+      "sha256": "ECB2ADD102A8B29D6CF731559D95A9E68840D4DBA7E08D2B3FFAA34CF746A68F",
+      "size": 217,
+      "mtimeMs": 1787772852405.73
+    },
+    "calculator_old.py": {
+      "sha256": "A0F72056C42668F3F0D318A04C437730BBECA5EE211CD2D54A144333EFF82F46",
+      "size": 282,
+      "mtimeMs": 1787772852405.73
+    },
+    "config.json": {
+      "sha256": "C61D5304D0B8B39D60DF96F583DF3988B39DF7EE001A42C863A3ED3EBE1C6517",
+      "size": 356,
+      "mtimeMs": 1787772852406.7295
+    },
+    "discount_engine.py": {
+      "sha256": "58107927B0AA94705DB281250D709AC0B500DF2DC168640248ECEC557140DFA7",
+      "size": 1226,
+      "mtimeMs": 1787772852406.7295
+    },
+    "module_a.py": {
+      "sha256": "72B7199ED480AD3BF0DB08CC5EDFAE2D5408BBC811CDEEA47DDFA7ED8146B28D",
+      "size": 293,
+      "mtimeMs": 1787772852407.7295
+    },
+    "module_b.py": {
+      "sha256": "FB0BD8EDF7D00B482DEEA49FFF8B15F3BC1BBED33AB1AB05C2F96DB25DF824AE",
+      "size": 308,
+      "mtimeMs": 1787772852408.8223
+    },
+    "module_c.py": {
+      "sha256": "1FC7D9A3F594AFE31C2B67C3152BA5B22476E36A75ED8CCBDE491F3ABEEE8598",
+      "size": 280,
+      "mtimeMs": 1787772852409.7778
+    },
+    "nested/formatter.py": {
+      "sha256": "60B7360588408302496F7D265F389ADF4C6810B5FC97DFFFD756357959ACF2C7",
+      "size": 856,
+      "mtimeMs": 1787772852409.7778
+    },
+    "overwrite-test.txt": {
+      "sha256": "76AC19D111AFBC3FF1F03BFAAAFDF3ED3F6845D186EF81B8E1CB730276E6CE4E",
+      "size": 26,
+      "mtimeMs": 1787772852409.7778
+    },
+    "public_api.py": {
+      "sha256": "56E5B3D717F896F19439E1C583A33DDED4BD9C660805BCF87D56679990ECA4B9",
+      "size": 748,
+      "mtimeMs": 1787772852411.3247
+    },
+    "tests/test_calculator.py": {
+      "sha256": "4918255AD786FFD5FEEB7768839868A8946E3EFF993AE46C7DE9DDE8746E325C",
+      "size": 931,
+      "mtimeMs": 1787772852411.3247
+    },
+    "tests/test_discount_engine.py": {
+      "sha256": "6E0683E3BB763017BBDFE80054771CF50A143EE055729AAB42238F9147E44FB8",
+      "size": 1485,
+      "mtimeMs": 1787772852412.3306
+    },
+    "tests/test_formatter.py": {
+      "sha256": "12AA91C78D0D5FE2342F030963D5861643CA0B1C8170C515EB6471F75CAA138E",
+      "size": 1303,
+      "mtimeMs": 1787772852412.3306
+    },
+    "tests/test_module_b.py": {
+      "sha256": "D10029BDEF5F4EE71E5DBC7513404300F7A3982FB4A9FC5083ED03513EA3EAD2",
+      "size": 835,
+      "mtimeMs": 1787772852413.3882
+    },
+    "tests/test_public_api.py": {
+      "sha256": "95B0C2819D39441EC73930BB3BB1E5F15FC2DF1EE0ED3AB34DC396F1243BE6A5",
+      "size": 864,
+      "mtimeMs": 1787772852413.3882
+    }
+  },
+  "afterSnapshot": {
+    ".gitignore": {
+      "sha256": "221EF19002C091B3A41A4808601ACFED9B5E3DAB6BADBE8273EEBD00513FD4E0",
+      "size": 40,
+      "mtimeMs": 1787772852404.7295
+    },
+    "calculator.py": {
+      "sha256": "F65C5ABA6A3AA64AE189D10269732B0B92826938EE07CC460AE91D2886B7F782",
+      "size": 593,
+      "mtimeMs": 1787772852404.7295
+    },
+    "calculator_backup.py": {
+      "sha256": "ECB2ADD102A8B29D6CF731559D95A9E68840D4DBA7E08D2B3FFAA34CF746A68F",
+      "size": 217,
+      "mtimeMs": 1787772852405.73
+    },
+    "calculator_old.py": {
+      "sha256": "A0F72056C42668F3F0D318A04C437730BBECA5EE211CD2D54A144333EFF82F46",
+      "size": 282,
+      "mtimeMs": 1787772852405.73
+    },
+    "config.json": {
+      "sha256": "C61D5304D0B8B39D60DF96F583DF3988B39DF7EE001A42C863A3ED3EBE1C6517",
+      "size": 356,
+      "mtimeMs": 1787772852406.7295
+    },
+    "discount_engine.py": {
+      "sha256": "5534ACE2CB17FC9803E37B1453DA9CFD8EFFE986A80AE342E9B26CDF31783EAE",
+      "size": 1417,
+      "mtimeMs": 1787774533280.5889
+    },
+    "module_a.py": {
+      "sha256": "72B7199ED480AD3BF0DB08CC5EDFAE2D5408BBC811CDEEA47DDFA7ED8146B28D",
+      "size": 293,
+      "mtimeMs": 1787772852407.7295
+    },
+    "module_b.py": {
+      "sha256": "FB0BD8EDF7D00B482DEEA49FFF8B15F3BC1BBED33AB1AB05C2F96DB25DF824AE",
+      "size": 308,
+      "mtimeMs": 1787772852408.8223
+    },
+    "module_c.py": {
+      "sha256": "1FC7D9A3F594AFE31C2B67C3152BA5B22476E36A75ED8CCBDE491F3ABEEE8598",
+      "size": 280,
+      "mtimeMs": 1787772852409.7778
+    },
+    "nested/formatter.py": {
+      "sha256": "60B7360588408302496F7D265F389ADF4C6810B5FC97DFFFD756357959ACF2C7",
+      "size": 856,
+      "mtimeMs": 1787772852409.7778
+    },
+    "overwrite-test.txt": {
+      "sha256": "76AC19D111AFBC3FF1F03BFAAAFDF3ED3F6845D186EF81B8E1CB730276E6CE4E",
+      "size": 26,
+      "mtimeMs": 1787772852409.7778
+    },
+    "public_api.py": {
+      "sha256": "56E5B3D717F896F19439E1C583A33DDED4BD9C660805BCF87D56679990ECA4B9",
+      "size": 748,
+      "mtimeMs": 1787772852411.3247
+    },
+    "tests/test_calculator.py": {
+      "sha256": "4918255AD786FFD5FEEB7768839868A8946E3EFF993AE46C7DE9DDE8746E325C",
+      "size": 931,
+      "mtimeMs": 1787772852411.3247
+    },
+    "tests/test_discount_engine.py": {
+      "sha256": "6E0683E3BB763017BBDFE80054771CF50A143EE055729AAB42238F9147E44FB8",
+      "size": 1485,
+      "mtimeMs": 1787772852412.3306
+    },
+    "tests/test_formatter.py": {
+      "sha256": "12AA91C78D0D5FE2342F030963D5861643CA0B1C8170C515EB6471F75CAA138E",
+      "size": 1303,
+      "mtimeMs": 1787772852412.3306
+    },
+    "tests/test_module_b.py": {
+      "sha256": "D10029BDEF5F4EE71E5DBC7513404300F7A3982FB4A9FC5083ED03513EA3EAD2",
+      "size": 835,
+      "mtimeMs": 1787772852413.3882
+    },
+    "tests/test_public_api.py": {
+      "sha256": "95B0C2819D39441EC73930BB3BB1E5F15FC2DF1EE0ED3AB34DC396F1243BE6A5",
+      "size": 864,
+      "mtimeMs": 1787772852413.3882
+    }
+  },
+  "actuallyModified": [
+    "discount_engine.py"
+  ],
+  "actuallyAdded": [],
+  "actuallyRemoved": [],
+  "unexpectedModified": [],
+  "rawTurnLogs": [
+    {
+      "turn": 1,
+      "promptSnapshot": 2,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774507227_psdgj",
+              "type": "function",
+              "function": {
+                "name": "run_test",
+                "arguments": "{\"test_id\":\"tests/test_discount_engine.py\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 2,
+      "promptSnapshot": 4,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774512533_4ipk1",
+              "type": "function",
+              "function": {
+                "name": "edit_file",
+                "arguments": "{\"file_path\":\"discount_engine.py\",\"target_content\":\"result = calculate_discount(100, \\\"bronze\\\")\",\"replacement_content\":\"result = calculate_discount(100, \\\"bronze\\\") - 5\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 3,
+      "promptSnapshot": 6,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774516843_007ct",
+              "type": "function",
+              "function": {
+                "name": "edit_file",
+                "arguments": "{\"file_path\":\"discount_engine.py\",\"target_content\":\"def calculate_discount(price, tier)\",\"replacement_content\":\"def calculate_discount(price, tier):\\n    if tier == \\\"bronze\\\":\\n        return price * 0.95\\n    elif tier == \\\"silver\\\":\\n        return price * 0.90\\n    elif tier == \\\"gold\\\":\\n        return price * 0.85\\n    else:\\n        return price\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 4,
+      "promptSnapshot": 8,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774521009_3rp5w",
+              "type": "function",
+              "function": {
+                "name": "edit_file",
+                "arguments": "{\"file_path\":\"discount_engine.py\",\"target_content\":\"def apply_bulk_discount(prices, tier)\",\"replacement_content\":\"def apply_bulk_discount(prices, tier):\\n    if tier == \\\"silver\\\":\\n        return [price * 0.90 for price in prices]\\n    elif tier == \\\"gold\\\":\\n        return [price * 0.85 for price in prices]\\n    else:\\n        return prices\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 5,
+      "promptSnapshot": 10,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774522473_yy53b",
+              "type": "function",
+              "function": {
+                "name": "run_test",
+                "arguments": "{\"test_id\":\"tests/test_discount_engine.py\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 6,
+      "promptSnapshot": 12,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774527081_oabxg",
+              "type": "function",
+              "function": {
+                "name": "edit_file",
+                "arguments": "{\"file_path\":\"discount_engine.py\",\"target_content\":\"return prices\",\"replacement_content\":\"return prices[:]\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 7,
+      "promptSnapshot": 14,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774528582_j7cq4",
+              "type": "function",
+              "function": {
+                "name": "run_test",
+                "arguments": "{\"test_id\":\"tests/test_discount_engine.py\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    },
+    {
+      "turn": 8,
+      "promptSnapshot": 16,
+      "choice": {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": null,
+          "tool_calls": [
+            {
+              "id": "call_1787774533279_p5som",
+              "type": "function",
+              "function": {
+                "name": "edit_file",
+                "arguments": "{\"file_path\":\"discount_engine.py\",\"target_content\":\"return prices[:]:\",\"replacement_content\":\"return prices[:]\"}"
+              }
+            }
+          ]
+        },
+        "finish_reason": "tool_calls"
+      }
+    }
+  ],
+  "metrics": {
+    "fileSelectionSuccess": true,
+    "diskWriteSuccess": true,
+    "testSuccess": false,
+    "constraintCompliance": true,
+    "retrySuccess": false,
+    "overallSuccess": false
+  },
+  "totalLatencyMs": 27248
+}

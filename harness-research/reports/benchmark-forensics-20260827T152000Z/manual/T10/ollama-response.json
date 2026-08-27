@@ -1,0 +1,32 @@
+{
+  "id": "chatcmpl-963",
+  "object": "chat.completion",
+  "created": 1787818936,
+  "model": "qwen2.5-coder-local",
+  "system_fingerprint": "fp_ollama",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": null,
+        "tool_calls": [
+          {
+            "id": "call_1787818936765_l90ud",
+            "type": "function",
+            "function": {
+              "name": "run_test",
+              "arguments": "{\"test_id\":\"test_discount_engine\"}"
+            }
+          }
+        ]
+      },
+      "finish_reason": "tool_calls"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 587,
+    "completion_tokens": 20,
+    "total_tokens": 607
+  }
+}

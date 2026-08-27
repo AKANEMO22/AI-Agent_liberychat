@@ -1,0 +1,12 @@
+{
+  "name": "local-qwen-desktop",
+  "version": "1.0.0",
+  "description": "Thin Native Desktop Shell for Local Qwen Coding Assistant",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^33.2.1"
+  }
+}
