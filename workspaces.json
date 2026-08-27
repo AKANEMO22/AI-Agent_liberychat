@@ -1,0 +1,179 @@
+{
+  "activeWorkspaceId": "ws_mtabd21p_1jbq",
+  "workspaces": [
+    {
+      "id": "ws_agent_test",
+      "name": "workspace-agent-test",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\workspace-agent-test",
+      "createdAt": 1787753881357,
+      "lastOpened": 1787767683285,
+      "projectType": "Python / Unit Test Fixture",
+      "hasGit": true,
+      "type": "project"
+    },
+    {
+      "id": "ws_librechat",
+      "name": "LibreChat",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\LibreChat",
+      "createdAt": 1787753881357,
+      "lastOpened": 1787767212165,
+      "projectType": "TypeScript / React / Node.js",
+      "hasGit": true,
+      "type": "project"
+    },
+    {
+      "id": "ws_file_mta7o505_bmwg",
+      "type": "single_file",
+      "name": "direct-edit-test.txt",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\workspace-agent-test",
+      "targetFile": "direct-edit-test.txt",
+      "allowedFiles": [
+        "direct-edit-test.txt"
+      ],
+      "createdAt": 1787755843157,
+      "lastOpened": 1787763484447,
+      "projectType": "Plain Text File",
+      "hasGit": true
+    },
+    {
+      "id": "ws_mtaa0is9_f7fr",
+      "type": "project",
+      "name": "hachimi",
+      "root": "C:\\Users\\hachimi",
+      "createdAt": 1787759780121,
+      "lastOpened": 1787761861609,
+      "projectType": "JavaScript / Node.js",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtaa2qj8_noh1",
+      "type": "project",
+      "name": "Links",
+      "root": "C:\\Users\\hachimi\\Links",
+      "createdAt": 1787759883476,
+      "lastOpened": 1787759883476,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtaam4fp_tenn",
+      "type": "project",
+      "name": "Thư mục Dự án AI (2)",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\workspace-agent-test\\Thư mục Dự án AI (2)",
+      "createdAt": 1787760787957,
+      "lastOpened": 1787760787957,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtabd21p_1jbq",
+      "type": "project",
+      "name": "ThiChinhThucData",
+      "root": "C:\\Users\\hachimi\\Downloads\\ThiChinhThucData",
+      "createdAt": 1787762044573,
+      "lastOpened": 1787776299429,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtabdoqn_gj6n",
+      "type": "project",
+      "name": "test folder with spaces",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\test folder with spaces",
+      "createdAt": 1787762073983,
+      "lastOpened": 1787762085161,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtabdoqp_biyz",
+      "type": "project",
+      "name": "test'quote'name",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\test'quote'name",
+      "createdAt": 1787762073985,
+      "lastOpened": 1787762085162,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtabdoqq_jvno",
+      "type": "project",
+      "name": "Dự Án Lập Trình Qwen Cục Bộ",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\Dự Án Lập Trình Qwen Cục Bộ",
+      "createdAt": 1787762073986,
+      "lastOpened": 1787762085166,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_mtabdxd8_wah8",
+      "type": "project",
+      "name": "test#hash%pct@at!excl(parens)",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\test#hash%pct@at!excl(parens)",
+      "createdAt": 1787762085164,
+      "lastOpened": 1787762085164,
+      "projectType": "General Codebase",
+      "hasGit": false
+    },
+    {
+      "id": "ws_file_mtabohx7_csqp",
+      "type": "single_file",
+      "name": "calculator.py",
+      "root": "C:\\Users\\hachimi\\Downloads\\model train local\\workspace-agent-test",
+      "targetFile": "calculator.py",
+      "allowedFiles": [
+        "calculator.py"
+      ],
+      "createdAt": 1787762578363,
+      "lastOpened": 1787762578363,
+      "projectType": "Python Source File",
+      "hasGit": true
+    }
+  ],
+  "activeFilesByWorkspace": {
+    "ws_agent_test": "calculator.py",
+    "ws_mtabd21p_1jbq": "26653666-aa48-47b5-83b5-e532161cb5ab.pdf"
+  },
+  "activeFilesByConversation": {
+    "test-conv-beta-002": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "discount_engine.py"
+    },
+    "test-conv-alpha-001": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "conv_switch_A": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "coding_test_conv": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "draft_mtaepp45_x9qb0": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "draft_mtaepshm_iakml": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "discount_engine.py"
+    },
+    "draft_mtaggk14_kz0l2": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "direct-edit-test.txt"
+    },
+    "M12_FOCUSED_FILE": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "M13_EXPLICIT_OVERRIDES_FOCUS": {
+      "workspaceId": "ws_agent_test",
+      "activeFile": "calculator.py"
+    },
+    "98da1f5c-f8d9-59d7-855b-1a51aa36f30a": {
+      "workspaceId": "ws_mtabd21p_1jbq",
+      "activeFile": "26653666-aa48-47b5-83b5-e532161cb5ab.pdf"
+    }
+  }
+}

@@ -14,3 +14,7 @@ __pycache__/
 *.sqlite3
 audit-logs/
 logs/
+tmp_workspaces/
+
+# The original model is kept locally; GitHub stores its exact split parts.
+models/*.gguf
